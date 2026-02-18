@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGptb2h4bTZyajB5d3U4YzJqMmQ5M2syNTRsd2s0aTFxc3NtbTRoaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/116LlkPEMaiV8OsosQ/giphy.gif" width="300px">
+  <img src="./giff/welcome.gif" height="300" width="700px">
 </p>
 
 <h2 align="center">You’ll probably see a lot of Java here ☕</h2>
@@ -29,12 +29,11 @@
 
 </div>
 
-<br><br>
+<br><br><br><br>
 
--------------------------------------------------------------------------------------
 <div align="center">
 
-  <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
       
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
       
