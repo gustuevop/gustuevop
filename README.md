@@ -12,7 +12,7 @@
     <td>
       Head First Java<br>
       <br>
-      <img src="https://img.shields.io/badge/Progress-14%25-blue?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Progress-15.85%25-blue?style=for-the-badge">
     </td>
   </tr>
 </table>
