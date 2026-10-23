@@ -2,21 +2,6 @@
   <img src="./giff/welcome.gif" height="300" width="700px">
 </p>
 
-<h2 align="center">You’ll probably see a lot of Java here ☕</h2>
-
-<table align="center">
-  <tr>
-    <td width="300px" align="center">
-      <img src="https://m.media-amazon.com/images/I/81wAshyxQyL._SL1500_.jpg" width="230">
-    </td>
-    <td>
-      Head First Java<br>
-      <br>
-      <img src="https://img.shields.io/badge/Progress-17.60%25-blue?style=for-the-badge">
-    </td>
-  </tr>
-</table>
-
 <h2 align="center">Contact me</h2>
 
 <div align="center">
