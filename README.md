@@ -5,8 +5,6 @@
 <h2 align="center">Contact me</h2>
 
 <div align="center">
-
-<a href="https://instagram.com/gustuevop"><img height="35" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  
 <a href="https://www.linkedin.com/in/gustavo-spro"><img height="35" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  
@@ -14,18 +12,10 @@
 
 </div>
 
-<br><br><br><br>
+<br><br>
 
 <div align="center">
 
   <img height="180" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
 
-<!--      
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-      
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-      
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-
 </div>
--->
